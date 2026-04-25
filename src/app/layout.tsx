@@ -3,7 +3,7 @@ import localFont from 'next/font/local'
 import "./globals.css";
 
 const minecraft = localFont({
-  src: '../fonts/Minecraft.ttf',
+  src: '../fonts/minecraft.ttf',
 })
 
 export const metadata: Metadata = {
